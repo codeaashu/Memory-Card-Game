@@ -37,7 +37,7 @@ sudo git clone https://github.com/codeaashu/Memory-Card-Game.git
 Windows:
 
 ```bash
-git clone https://github.com/Pranav-Jadhav09/memory-card-game-v2.git
+git clone https://github.com/codeaashu/Memory-Card-Game.git
 ```
 
 ### License
